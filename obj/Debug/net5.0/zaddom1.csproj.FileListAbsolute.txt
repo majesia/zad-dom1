@@ -1,0 +1,16 @@
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\bin\Debug\net5.0\zaddom1.exe
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\bin\Debug\net5.0\zaddom1.deps.json
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\bin\Debug\net5.0\zaddom1.runtimeconfig.json
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\bin\Debug\net5.0\zaddom1.runtimeconfig.dev.json
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\bin\Debug\net5.0\zaddom1.dll
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\bin\Debug\net5.0\ref\zaddom1.dll
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\bin\Debug\net5.0\zaddom1.pdb
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\obj\Debug\net5.0\zaddom1.csproj.AssemblyReference.cache
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\obj\Debug\net5.0\zaddom1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\obj\Debug\net5.0\zaddom1.AssemblyInfoInputs.cache
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\obj\Debug\net5.0\zaddom1.AssemblyInfo.cs
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\obj\Debug\net5.0\zaddom1.csproj.CoreCompileInputs.cache
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\obj\Debug\net5.0\zaddom1.dll
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\obj\Debug\net5.0\ref\zaddom1.dll
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\obj\Debug\net5.0\zaddom1.pdb
+C:\Users\Pola2\source\repos\zaddom1\zaddom1\obj\Debug\net5.0\zaddom1.genruntimeconfig.cache
